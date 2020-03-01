@@ -25,7 +25,7 @@ Once it is finished downloading, extract all the contents of the zip to an empty
  
 Now in that folder, simply double click the "Hangman.sln" file.  Visual Studio will then load the project up for you. 
 
-If nothing happens or you get an error, try right clicking the "Hangman.sln" file, hover over "Open with", and selecting "Visual Studio 2019". 
+If nothing happens or you get an error, try right clicking the "Hangman.sln" file, hover over "Open with", and select "Visual Studio 2019". 
 
 Have fun and thank you for checking out my software!
 
