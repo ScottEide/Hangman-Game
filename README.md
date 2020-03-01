@@ -17,7 +17,7 @@ It will do an initial setup for Visual Studio then it will ask you what workload
 
 Select ".NET desktop development" and "Universal Windows Platform development", then click install. 
   
-After it's done installing, select whatever preferences you want. 
+After it's done installing, select whatever preferences you want and click ok. 
   
 You will now need to download the files for the Hangman project. 
   
