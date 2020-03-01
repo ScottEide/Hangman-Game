@@ -21,7 +21,7 @@ After it's done installing, select whatever preferences you want and click ok.
   
 You will now need to download the files for the Hangman project. 
   
-On the current page above the files, click on the green "Clone or download" button. THen click download as zip.
+On the current page above the files, click on the green "Clone or download" button. Then click download as zip.
  
 Once it is finished downloading, extract all the contents to an empty folder on your computer.
  
